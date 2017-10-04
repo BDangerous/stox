@@ -1,0 +1,13 @@
+Package: stox
+Title: Scrapes Stock Technicals From Yahoo
+Version: 0.1
+Authors@R: person("Robert", "Buchter", email = "bbuchter@gmail.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends: R (>= 3.4.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: rvest,
+    data.table,
+    Stack
+RoxygenNote: 6.0.1
